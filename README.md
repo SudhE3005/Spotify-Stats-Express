@@ -1,5 +1,6 @@
 # Spotify-Stats-Express
 
+
 This is a purely express js project with no server side javascript. The code will fetch your username and the top tracks and artists you enjoy listening to in different timelines( past 4 weeks, past 6 months and all time)
 
 This project was done to test my understanding of node js/express js and OAuth 2.0 Authorization while working with the spotify API.
